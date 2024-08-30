@@ -33,7 +33,7 @@ nav a {
   text-decoration: none;
   }
 
-nav a:not(:first-child) {display: none;}
+nav a:not(:first-child) { display: none; }
   
 nav a.icon {
   display: block;
@@ -52,6 +52,11 @@ nav.responsive a {
   padding: 14px;
   }
 
+nav a:hover {
+    background-color: #ddd;
+    color: black;
+    }
+
 @media screen and (min-width: 576px) {
     nav {
         display: flex;
@@ -59,14 +64,10 @@ nav.responsive a {
         place-items: center;
         }
 
-    nav a.icon { display: none; }
-
     nav a:not(.icon) { display: block; }
+
+    nav a.icon { display: none; }
       
-    nav a:hover {
-        background-color: #ddd;
-        color: black;
-      }
   }
   
 
