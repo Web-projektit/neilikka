@@ -57,6 +57,23 @@ nav a:hover {
     color: black;
     }
 
+fieldset {
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #333;
+  border-radius: 5px;
+}
+
+legend {
+  font-size: 1.2em; 
+  color: #333;
+  float: none;
+  width: auto; 
+  padding: 0 10px;
+  margin-bottom: 0;
+}
+
+
 @media screen and (min-width: 576px) {
     nav {
         display: flex;
@@ -67,7 +84,10 @@ nav a:hover {
     nav a:not(.icon) { display: block; }
 
     nav a.icon { display: none; }
-      
+
+    .oikea {
+        margin-left: auto;
+        }
   }
   
 
