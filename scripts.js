@@ -1,9 +1,12 @@
+const projekti = "neilikka"
 const myFunction = () => {
     var x = document.querySelector("nav")
     x.classList.toggle("responsive")
     }
 
-  var currentPath = location.pathname.split("/").pop();
+  /* Huom. tämä on vain esimerkki, joka ei välttämättä toimi oikein */ 
+  var currentPath = location.pathname.split(`${projekti}/`).pop();
+  console.log("currentPath:",currentPath);
   var navLinks = document.querySelectorAll("nav a");
 
   navLinks.forEach(link => {
