@@ -1,30 +1,13 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Profiili</title>
-    <meta charset="utf-8">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="site.css">
-    <link rel="stylesheet" type="text/css" href="rekisteroityminen.css">
-    <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
-    <script defer src="scripts.js"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
+<?php
+$title = "Rekisteröityminen";
+$css = "rekisteroityminen.css";
+include "head.php";
+?>
 <body>
-    <nav class="">
-        <a href="etusivu.html" class="active">Etusivu</a>
-        <a href="tuotteet.html">Tuotteet</a>
-        <a href="myymalat.html">Myymälät</a>
-        <a href="yhteystiedot.html">Yhteystiedot</a>
-        <a class="oikea" href="rekisteroityminen.html">Rekisteröidy</a>
-        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-        <i class="fa fa-bars"></i>
-        </a>
-        </nav>   
-
-
+<?php include "navigointi.html"; ?>
 <div class="content">
 <h1>Rekisteröityminen Neilikka-puutarhaliikkeen asiakkaaksi</h1>
 <form method="POST" class="needs-validation" novalidate>
@@ -401,8 +384,6 @@
 
 </form>
 </div>
-<footer>
-<p>&copy 2024, Web-ohjelmointikoulutus</p>
-</footer>
+<?php include "footer.html"; ?>
 </body>
 </html>
