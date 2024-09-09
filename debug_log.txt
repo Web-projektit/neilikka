@@ -1,0 +1,172 @@
+2024-09-09 13:45:37 
+2024-09-09 13:45:37 
+2024-09-09 13:45:37 
+2024-09-09 13:45:37 
+2024-09-09 13:48:44 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
+2024-09-09 13:48:44 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
+2024-09-09 13:48:44 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
+2024-09-09 13:48:44 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
+2024-09-09 13:49:41 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
+2024-09-09 13:49:41 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
+2024-09-09 13:49:41 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
+2024-09-09 13:49:41 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
+2024-09-09 13:50:14 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
+2024-09-09 13:50:14 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
+2024-09-09 13:50:14 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
+2024-09-09 13:50:14 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
+2024-09-09 14:10:33 array (
+  'hetu' => '',
+  'nimi' => 'Matti Meikäläinen',
+  'osoite' => NULL,
+  'puhelinnumero' => NULL,
+)
+2024-09-09 14:10:33 array (
+  'hetu' => '',
+  'nimi' => 'Matti Meikäläinen',
+  'osoite' => NULL,
+  'puhelinnumero' => NULL,
+)
+2024-09-09 14:10:33 array (
+  'hetu' => '',
+  'nimi' => 'Matti Meikäläinen',
+  'osoite' => NULL,
+  'puhelinnumero' => NULL,
+)
+2024-09-09 14:10:33 array (
+  'hetu' => '',
+  'nimi' => 'Matti Meikäläinen',
+  'osoite' => NULL,
+  'puhelinnumero' => NULL,
+)
+2024-09-09 14:10:33 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
+2024-09-09 14:10:33 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
+2024-09-09 14:10:33 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
+2024-09-09 14:10:33 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
+2024-09-09 14:17:26 array (
+  'hetu' => '',
+  'nimi' => 'Matti Meikäläinen',
+  'osoite' => NULL,
+  'puhelinnumero' => NULL,
+)
+2024-09-09 14:17:26 array (
+  'hetu' => '',
+  'nimi' => 'Matti Meikäläinen',
+  'osoite' => NULL,
+  'puhelinnumero' => NULL,
+)
+2024-09-09 14:17:26 array (
+  'hetu' => '',
+  'nimi' => 'Matti Meikäläinen',
+  'osoite' => NULL,
+  'puhelinnumero' => NULL,
+)
+2024-09-09 14:17:26 array (
+  'hetu' => '',
+  'nimi' => 'Matti Meikäläinen',
+  'osoite' => NULL,
+  'puhelinnumero' => NULL,
+)
+2024-09-09 14:17:26 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
+2024-09-09 14:17:26 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
+2024-09-09 14:17:26 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
+2024-09-09 14:17:26 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
