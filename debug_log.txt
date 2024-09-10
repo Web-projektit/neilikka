@@ -170,3 +170,58 @@
   'osoite' => 'Kanervapolku 2',
   'puhelinnumero' => '358501640837',
 )
+2024-09-10 10:00:45 array (
+  'hetu' => '',
+  'nimi' => 'Matti Meikäläinen',
+  'osoite' => NULL,
+  'puhelinnumero' => NULL,
+)
+2024-09-10 10:00:45 array (
+  'hetu' => '',
+  'nimi' => 'Matti Meikäläinen',
+  'osoite' => NULL,
+  'puhelinnumero' => NULL,
+)
+2024-09-10 10:00:45 array (
+  'hetu' => '',
+  'nimi' => 'Matti Meikäläinen',
+  'osoite' => NULL,
+  'puhelinnumero' => NULL,
+)
+2024-09-10 10:00:45 array (
+  'hetu' => '',
+  'nimi' => 'Matti Meikäläinen',
+  'osoite' => NULL,
+  'puhelinnumero' => NULL,
+)
+2024-09-10 10:00:45 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
+2024-09-10 10:00:45 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
+2024-09-10 10:00:45 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
+2024-09-10 10:00:45 array (
+  'hetu' => '281182-070W',
+  'nimi' => 'Jaana Autoilija',
+  'osoite' => 'Kanervapolku 2',
+  'puhelinnumero' => '358501640837',
+)
+2024-09-10 10:00:45 Virhe 1062: Duplicate entry 'CES-267' for key 'PRIMARY'
+2024-09-10 10:45:04 Virhe 1062: Duplicate entry 'CES-267' for key 'PRIMARY'
+2024-09-10 10:48:19 Virhe 1062: Duplicate entry 'CES-267' for key 'PRIMARY'
+2024-09-10 10:48:19 Virhe 1451 kyselyssä DELETE FROM henkilo WHERE nimi LIKE '%Autoilija': Cannot delete or update a parent row: a foreign key constraint fails (`autodb`.`auto`, CONSTRAINT `auto_ibfk_1` FOREIGN KEY (`omistaja`) REFERENCES `henkilo` (`hetu`))
+2024-09-10 10:53:11 Virhe 1062: Duplicate entry 'CES-267' for key 'PRIMARY'
+2024-09-10 10:55:34 Virhe 1062: Duplicate entry 'CES-267' for key 'PRIMARY'
+2024-09-10 11:02:37 Virhe 1062: Duplicate entry 'CES-267' for key 'PRIMARY'
