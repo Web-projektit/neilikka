@@ -3,6 +3,11 @@ include 'debuggeri.php';
 include 'tietokantarutiinit.php';
 register_shutdown_function('debuggeri_shutdown');
 
+$query = "SELECT count(*) FROM auto";
+$result = $yhteys->query($query);
+[$count] = $result->fetch_row();
+echo "Autoja on $count kpl<br>";
+
 $query = "SELECT * FROM henkilo";
 $result = $yhteys->query($query);
 // jos tulosrivejä löytyi
@@ -53,5 +58,14 @@ if ($yhteys->affected_rows > 0){
       echo "<p class='alert alert-danger'>Henkilöä $henkilo ei poistettu.</p>";
       }
 
+   $query = "INSERT INTO sakko (henkilo,auto,pvm,summa,syy) SELECT hetu,rekisterinro,CURDATE(),160,'Ylinopeus' 
+      FROM henkilo LEFT JOIN auto ON omistaja = hetu WHERE nimi = 'Jaana Autoilija'";    
+   $result = mysqli_my_query($query);
+   if ($yhteys->affected_rows > 0){
+      echo "<p class='alert alert-success'>Sakko lisätty.</p>";
+      }
+   else {
+      echo "<p class='alert alert-danger'>Sakkoa ei lisätty.</p>";
+      }     
 
 ?>

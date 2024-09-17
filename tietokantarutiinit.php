@@ -15,18 +15,13 @@ function mysqli_my_query($query) {
    $result = false;
    try {
       $result = $yhteys->query($query); 
-      /*if ($yhteys->affected_rows > 0){
-         echo "<p class='alert alert-success'>Tietokantakysely onnistui.</p>";
-         }
-      else {
-         echo "<p class='alert alert-danger'>Tietokantakysely epäonnistui.</p>";
-         } */
       } 
    catch (Exception $e) {
       echo "<p class='alert alert-danger'>Virhe tietokantakyselyssä.</p>";
-      debuggeri("Virhe $yhteys->errno: " . $e->getMessage());
+      debuggeri("Virhe $yhteys->errno kyselyssa $query: " . $e->getMessage());
       }
     return $result;
     }
 
+    
 ?>
